@@ -1,0 +1,262 @@
+{
+  "hero": {
+    "imgUrl": "/images/home-banner.png",
+    "name": "DEVESH M ",
+    "heading": "Hy! I’m DEVESH",
+    "typingText": ["I'm a Designer", 1500, "I'm a Developer", 1500  ],
+    "description": "I'm a developer with a passion for creating clean and efficient web applications. I love turning ideas into real-time solutions using modern technologies. From frontend design to backend logic, I enjoy every part of the development process. Explore my work and let's build something great together!",
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  
+  "socialBtns": [
+    {
+      "icon": "fa-brands:instagram",
+      "iconBgClass": "instagram",
+      "href": "https://www.instagram.com/its._.deveshh?igsh=dWgybXg0NnJkMHZo"
+    },
+    {
+      "icon": "fa-brands:whatsapp",
+      "iconBgClass": "whatsapp",
+      "href": "/"
+    },
+    
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "https://www.linkedin.com/in/devesh-m-140135281"
+    }
+    
+    
+  ],
+  "brands": [
+    {
+      "src": "/images/reactlogo.jpg",
+      "alt": "react logo"
+    },
+    {
+      "src": "/images/javasrcipt.jpg",
+      "alt": "javasrcipt"
+    },
+    {
+      "src": "/images/pythonlogo.jpg",
+      "alt": "pythonlogo"
+    },
+    {
+      "src": "/images/wordpresslogo.jpg",
+      "alt": "wordpresslogo"
+    },
+    {
+      "src": "/images/premiumpro.jpg",
+      "alt": "premiumpro"
+    }
+  
+  ],
+  "about": {
+    "imgSrc": "/images/about-banner.png",
+    "miniTitle": "About Us",
+    "title": "I AM AVAILABLE FOR <span>Website and editing</span> PROJECTS",
+    "description": "I am currently available for freelance or contract UI/UX design projects. Whether you're launching a new product, revamping an existing interface, or just need help improving your user experience, I’d love to collaborate and bring your vision to life.",
+    "funfacts": [
+      {
+        "title": "Completed Projects",
+        "number": 30
+      },
+      {
+        "title": "Years of Experience",
+        "number": 2
+      },
+      {
+        "title": "Design Achievements",
+        "number": 38
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECT"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/web design.jpg",
+        "title": "Website Design",
+        "subTitle": "Web & App UI/UX Design",
+        "details": {
+          "title": "Modern Website Design for a Marketing Agency Startup",
+          "description": "Crafted a sleek and responsive website tailored for a fast-growing marketing agency. The design focuses on user engagement, clear call-to-actions, and seamless navigation to elevate client interaction and brand visibility. <br><br>The project incorporated dynamic elements and optimized performance, ensuring a smooth browsing experience across all devices.",
+          "type": "Website",
+          "langages": "React, HTML, CSS, JavaScript , mangoodb database",
+          "platform": "React framework",
+          "state": "chennai, vellore ",
+          "url": ""
+        }
+      },
+      {
+        "thumbUrl": "/images/editing.png",
+        "title": "Creative Editing",
+        "subTitle": "Video Editing, Motion Graphics",
+        "details": {
+          "title": "Creative Video Editing for a Marketing Campaign",
+          "description": "Produced and edited high-impact video content tailored for a dynamic marketing agency. The project involved color correction, transitions, motion graphics, and sound design to create an engaging final product. <br><br>Designed to boost viewer retention and enhance brand messaging across social platforms, the result was a compelling video that captured attention and delivered results.",
+          "type": "Video Editing",
+          "langages": "Adobe Premiere Pro, After Effects",
+          "platform": "YouTube, Instagram, Web",
+          "city": "chennai, vellore , bangalore",
+          "url": ""
+        }
+      },
+      {
+        "thumbUrl": "/images/login ui.png",
+        "title": "Dashboard UI Design",
+        "subTitle": "Web & App Interface",
+        "details": {
+          "title": "Custom Dashboard for Marketing Agency",
+          "description": "Designed and developed a modern, responsive dashboard interface tailored for a digital marketing agency startup. The project focused on clean UI/UX design principles to enhance user interaction and streamline daily operations. <br><br>Key features include intuitive navigation, custom data widgets, and seamless integration with existing platforms. The solution was optimized for performance and accessibility across multiple devices.",
+          "type": "Web Application",
+          "langages": "HTML, CSS, JavaScript, PHP",
+          "platform": "React framework",
+          "state": "vellore",
+          "url": "https://www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/mobile.jpg",
+        "title": "Mobile App Interface Design",
+        "subTitle": "UI/UX, Mobile & Web Design",
+        "details": {
+          "title": "Mobile App Design for a Marketing Agency",
+          "description": "Crafted a sleek and intuitive mobile app design for a marketing agency to enhance their client engagement and performance tracking. The app features a user-friendly interface, consistent branding, and responsive layouts suitable for both iOS and Android platforms. <br><br>Design focused on usability, modern aesthetics, and optimized workflows to improve user retention and in-app navigation.",
+          "type": "Mobile Application",
+          "langages": "HTML, CSS, JavaScript, PHP",
+          "platform": "WordPress Backend, Hybrid Mobile Frontend",
+          "state": "chennai, vellore, bangalore ",
+          "url": "https://www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/startup.png",
+        "title": "Startup Connet using Mern Stack (LIVE PROJECT)",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Startup Connect helps startups, investors, and mentors connect for collaboration, funding, and guidance to drive growth and success. By fostering meaningful partnerships and offering strategic insights, it empowers startups to scale, innovate, and thrive in a competitive market.",
+          "type": "Website",
+          "langages": "React, HTML, CSS, JavaScript , mangoodb database",
+          "platform": "React framework",
+          "state": " vellore ",
+          "url": "https://startupconnectz.com/home"
+        }
+      },
+      {
+        "thumbUrl": "/images/impared.jpg",
+        "title": "Accessible Design for the Visually Impaired",
+        "subTitle": "Inclusive Web & App Design",
+        "details": {
+          "title": "Inclusive Digital Platform for Visually Impaired Users",
+          "description": "Developed a fully accessible website and application interface tailored for visually impaired individuals. The design complies with WCAG 2.1 standards, ensuring screen reader compatibility, keyboard navigation, and high-contrast UI options. <br><br>Focus was placed on enhancing usability, minimizing visual clutter, and integrating voice feedback features to improve the overall user experience for those with vision challenges.",
+          "type": "Accessible Web Platform",
+          "langages": "HTML, CSS, JavaScript, PHP",
+          "platform": "Custom WordPress Theme",
+          "state": "vellore",
+          "url": "https://www.example.com"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "My<span> services</span> for clients"
+    },
+    "allService": [
+      {
+        "imgUrl": "/images/ui.png",
+        "title": "ui and ux design",
+        "subTitle": "Crafted a sleek and responsive website tailored for a fast-growing marketing agency. The design focuses on user engagement, clear call-to-actions, and seamless navigation to elevate client interaction and brand visibility.",
+        "icon": "bi:brush-fill",
+        "ratings": 4
+      },
+      {
+        "imgUrl": "/images/web.jpg",
+        "title": "Website Design",
+        "subTitle": "The design focuses on user engagement, clear call-to-actions, and seamless navigation to elevate client interaction and brand visibility. finally i developed my skills on this platform , and i working lots of projects. ",
+        "icon": "bi:code-square",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/cinmatography.jpeg",
+        "title": "cinematography",
+        "subTitle": "Cinematography is the art and craft of capturing visual storytelling through motion pictures. It involves more than just operating a camera—it's about framing, lighting, movement, and emotion. ",
+        "icon": "bi:speedometer2",
+        "ratings": 3.5
+      },
+      {
+        "imgUrl": "/images/editing.png",
+        "title": "Editing",
+        "subTitle": "Produced and edited high-impact video content tailored for a dynamic marketing agency. The project involved color correction, transitions, motion graphics, and sound design to create an engaging final product.",
+        "icon": "bi:palette",
+        "ratings": 5
+      }
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experience",
+      "title": "My Work <span>Experience</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "Managing Director",
+        "company": "",
+        "duration": "march 2024",
+        "jobType": "Full time",
+        "companyTitle": "Star management bangalore",
+        "companyDescription": "Built and maintained key partnerships with clients and vendors, expanding the company’s network across tech and creative sectors in Bangalore."
+      },
+      {
+        "designation": "Full Stack Developer",
+        "company": "",
+        "duration": "june 2024",
+        "jobType": "Full time",
+        "companyTitle": "Kairaa Tech Serve Pvt Ltd",
+        "companyDescription": "Kairaa is the best company for serving tech solutions. We'll develop enterprise solutions using web 3.0 technologies. Our solutions will aid in our clients' management and business optimization. To assist our clients in achieving their business objectives, we can offer the best technological solutions."
+      },
+      {
+        "designation": "Front-end Developer",
+        "company": "developing team",
+        "duration": "JAN 2025 - PRESENT",
+        "jobType": "Full time",
+        "companyTitle": "Man 2 Web Technologies",
+        "companyDescription": "Man 2 Web is an Expertise web designing company in Tamilnadu. We provide you a future focused online experience and with creative thinking and technical ..."
+      }
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "currently working",
+      "title": " MAN 2 web <span> technologies </span> <br /> "
+    },
+    "allTestimonial": [
+      {
+        "reviewText": " Man 2 Web is an Expertise Software Development company in India. We provide you with a future-focused online experience and with creative thinking and technical excellence. We design your Application to represent your business and your presence on the web to define the market.",
+        "avatarImg": "/images/avatar-1.jpg",
+        "avatarName": "frontend developer",
+        "avatarCompany": "Developing Team"
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Discuss Your Project",
+      "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
+    },
+    "contactImg": "/images/pic4.jpg",
+    "contactInfo": [
+      { "title": "E-mail", "email": "deveshpinku7@gmail.com" },
+      { "title": "contact", "tel": "6383944967" }
+    ]
+  }
+}
